@@ -1,0 +1,17 @@
+node_modules/
+.env
+
+# Hardhat
+cache/
+artifacts/
+typechain/
+typechain-types/
+
+# Hardhat coverage
+coverage/
+coverage.json
+
+# Hardhat node and local network
+node_modules/
+hardhat.config.js
+.env
