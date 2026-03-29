@@ -104,3 +104,8 @@ ollama serve
 ## License
 
 MIT
+
+## My Contribution
+
+This project was explored as part of the LOCK'IN Blockchain Bootcamp. 
+I worked on setting up the development environment, understanding the smart contract workflow, interacting with MetaMask wallet, and testing the frontend functionalities.
